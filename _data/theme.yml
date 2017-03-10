@@ -1,0 +1,22 @@
+highlight_color: '#5c9e0b'
+social:
+  github: marina-h
+  #bitbucket:
+  #hacker_news:
+  #stackexchange:
+  #stackoverflow:
+  twitter: marinahoashi
+  linkedin: marina-hoashi
+
+title: Marina's coding blog
+name: Marina Hoashi
+email: marinahoashi@gmail.com
+description: A blog about my experiences as a student at the Grace Hopper Program coding bootcamp.
+
+google_analytics_key: UA-93465404-1
+
+# Toggle "Postings are my own" disclaimer in footer
+show_disclaimer: false
+
+# Toggle link/icon to view atom feed (/atom.xml) in sidebar
+show_atom_feed: true

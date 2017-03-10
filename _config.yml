@@ -1,0 +1,10 @@
+# General Jekyll Config
+highlighter: rouge
+baseurl: ""
+url: "marinahoashi.com"
+lsi: false
+paginate: 20
+paginate_path: "/blog/page:num/"
+gems:
+  - jekyll-paginate
+exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
